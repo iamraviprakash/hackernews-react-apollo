@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Project Description
+This project is inspired from a tutorial on GraphQL and Apollo Client provided by the [HowToGraphQL](https://howtographql.com).This covers the concept which can implemented by the GraphQL:
+1. Pagination
+2. Subscriptions
+
+
+# Installation
 ## Available Scripts
 
 In the project directory, you can run:
